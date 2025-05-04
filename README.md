@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**apolololo/apolololo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salut, moi c'est Amine !
+Développeur passionné par le web, l'open source et le café ☕
 
-Here are some ideas to get you started:
+## 🌱 Projets récents
+- [MonSuperProjet](https://github.com/amine-dev/MonSuperProjet)
+- [Blog](https://amine.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Me contacter
+- Twitter : [@amine_dev](https://twitter.com/amine_dev)
+- Email : contact@amine.dev
+
+## ❤️ Soutiens mon travail
+Si tu aimes ce que je fais, tu peux me soutenir ici 👇
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/amine)
