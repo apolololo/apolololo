@@ -1,4 +1,5 @@
-<h1 align="center">Salut 👋 I'm Apo!</h1> <p align="center"> 🎮 French streamer | 💻 Hobbyist Developer | ☕ Ko-fi lover <br> 🌍 Mostly speak French 🇫🇷 but I try my best in English too! </p>
+Salut 👋 I'm Apo!
+<p align="center"> 🎮 French streamer | 💻 Hobbyist Developer | ☕ Ko-fi lover <br> 🌍 Mostly speak French 🇫🇷 but I try my best in English too! </p>
 🎥 Livestreaming
 <p align="center"> <a href="https://www.twitch.tv/tryh_apo"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch"> </a> <a href="https://kick.com/tryh-apo"> <img src="https://img.shields.io/badge/Kick-53FC18?style=flat-square&logo=kick&logoColor=white" alt="Kick"> </a> <a href="https://www.youtube.com/@tryhapo"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"> </a> </p>
 I stream for fun, play games with my community, and chill out live. Come hang out with us!
