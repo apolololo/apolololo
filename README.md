@@ -9,18 +9,20 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=apolololo&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
   </div>
+  
+  <p><em>💡 Pro tip: Use Ctrl+Click (or Cmd+Click on Mac) to open links in a new tab!</em></p>
 </div>
 
 <div align="center">
   <h2>🎥 Livestreaming</h2>
   
-  <a href="https://www.twitch.tv/tryh_apo" target="_blank">
+  <a href="https://www.twitch.tv/tryh_apo">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
-  <a href="https://kick.com/tryh-apo" target="_blank">
+  <a href="https://kick.com/tryh-apo">
     <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=white" alt="Kick" />
   </a>
-  <a href="https://www.youtube.com/@tryhapo" target="_blank">
+  <a href="https://www.youtube.com/@tryhapo">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
@@ -31,7 +33,7 @@
   <h2>❤️ Support My Work</h2>
   <p>If you enjoy my projects or streams, you can help me keep going with a coffee 😊</p>
   
-  <a href="https://ko-fi.com/apo__" target="_blank">
+  <a href="https://ko-fi.com/apo__">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </div>
@@ -39,13 +41,13 @@
 <div align="center">
   <h2>📬 Let's Connect</h2>
   
-  <a href="https://x.com/apoftn1" target="_blank">
+  <a href="https://x.com/apoftn1">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.tiktok.com/@apo_ban" target="_blank">
+  <a href="https://www.tiktok.com/@apo_ban">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://instagram.com/tryh_apo" target="_blank">
+  <a href="https://instagram.com/tryh_apo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
@@ -56,10 +58,10 @@
   
 
   </a><br>
-  <a href="https://apolinks.netlify.app" target="_blank">
+  <a href="https://apolinks.netlify.app">
     <img src="https://img.shields.io/badge/🌐_MyWebsite-Personal_website-6A5ACD?style=for-the-badge" alt="MyWebsite" />
   </a><br>
-  <a href="https://github.com/apolololo/EpicFree" target="_blank">
+  <a href="https://github.com/apolololo/EpicFree">
     <img src="https://img.shields.io/badge/🧩_BrowserExtension-EpicFree-6A5ACD?style=for-the-badge" alt="EpicFree" />
   </a>
 </div>
