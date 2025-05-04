@@ -3,7 +3,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/🇫🇷_French-Native-blue?style=for-the-badge&labelColor=1a1b27" alt="French" />
-    <img src="https://img.shields.io/badge/🇬🇧_English-YES-blue?style=for-the-badge&labelColor=1a1b27" alt="English" />
+    <img src="https://img.shields.io/badge/🇪🇳_English-YES-blue?style=for-the-badge&labelColor=1a1b27" alt="English" />
   </p>
 
   <div align="center">
