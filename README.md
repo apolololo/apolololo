@@ -76,63 +76,18 @@
 </div>
 
 <div align="center">
-  <h2>📌 Featured Projects</h2>
+  <h2>📌 Mes Projets</h2>
   <p>More coming soon — stay tuned!</p>
   
-  <!-- PROJETS: Facile à mettre à jour - il suffit de copier/coller un bloc et modifier les détails -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <!-- PROJET 1 -->
-    <a href="https://github.com/apolololo/audio" style="text-decoration: none;">
-      <div style="border: 1px solid #333; border-radius: 10px; width: 300px; padding: 15px; margin: 10px; background-color: #1a1b27;">
-        <h3 style="color: #6A5ACD;">🛠️ CoolApp</h3>
-        <p style="color: #ccc;">An experimental web app</p>
-        <div style="display: flex; gap: 5px; margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Type-WebApp-blue?style=flat-square" alt="Type" />
-          <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" alt="Status" />
-        </div>
-      </div>
-    </a>
-    
-    <!-- PROJET 2 -->
-    <a href="https://github.com/apolololo/projet2" style="text-decoration: none;">
-      <div style="border: 1px solid #333; border-radius: 10px; width: 300px; padding: 15px; margin: 10px; background-color: #1a1b27;">
-        <h3 style="color: #6A5ACD;">🌐 MyWebsite</h3>
-        <p style="color: #ccc;">Personal website</p>
-        <div style="display: flex; gap: 5px; margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Type-Website-green?style=flat-square" alt="Type" />
-          <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status" />
-        </div>
-      </div>
-    </a>
-    
-    <!-- PROJET 3 -->
-    <a href="https://github.com/apolololo/projet3" style="text-decoration: none;">
-      <div style="border: 1px solid #333; border-radius: 10px; width: 300px; padding: 15px; margin: 10px; background-color: #1a1b27;">
-        <h3 style="color: #6A5ACD;">🧩 BrowserExtensionX</h3>
-        <p style="color: #ccc;">Chrome/Firefox extension</p>
-        <div style="display: flex; gap: 5px; margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Type-Extension-purple?style=flat-square" alt="Type" />
-          <img src="https://img.shields.io/badge/Status-Beta-orange?style=flat-square" alt="Status" />
-        </div>
-      </div>
-    </a>
-    
-    <!-- Pour ajouter un nouveau projet, copiez un bloc existant et modifiez les détails -->
-  </div>
-  
-  <!-- VERSION ALTERNATIVE (au cas où le style inline ne fonctionne pas) -->
-  <div>
-    <h3>Projets alternatifs (si les cartes ci-dessus ne s'affichent pas)</h3>
-    <a href="https://github.com/apolololo/projet1">
-      <img src="https://img.shields.io/badge/🛠️_CoolApp-An_experimental_web_app-6A5ACD?style=for-the-badge" alt="CoolApp" />
-    </a><br>
-    <a href="https://github.com/apolololo/projet2">
-      <img src="https://img.shields.io/badge/🌐_MyWebsite-Personal_website-6A5ACD?style=for-the-badge" alt="MyWebsite" />
-    </a><br>
-    <a href="https://github.com/apolololo/projet3">
-      <img src="https://img.shields.io/badge/🧩_BrowserExtensionX-Chrome/Firefox_extension-6A5ACD?style=for-the-badge" alt="BrowserExtensionX" />
-    </a>
-  </div>
+  <a href="https://github.com/apolololo/projet1">
+    <img src="https://img.shields.io/badge/🛠️_CoolApp-An_experimental_web_app-6A5ACD?style=for-the-badge" alt="CoolApp" />
+  </a><br>
+  <a href="https://github.com/apolololo/projet2">
+    <img src="https://img.shields.io/badge/🌐_MyWebsite-Personal_website-6A5ACD?style=for-the-badge" alt="MyWebsite" />
+  </a><br>
+  <a href="https://github.com/apolololo/projet3">
+    <img src="https://img.shields.io/badge/🧩_BrowserExtensionX-Chrome/Firefox_extension-6A5ACD?style=for-the-badge" alt="BrowserExtensionX" />
+  </a>
 </div>
 
 <div align="center">
