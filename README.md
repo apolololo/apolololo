@@ -68,16 +68,9 @@ If you enjoy my projects or streams, you can help me keep going with a coffee �
 > *More coming soon — stay tuned!*
 
 - 🛠️ [CoolApp](https://github.com/yourusername/CoolApp) – An experimental web app  
-- 🌐 [MyWebsite](https://apolinks.netlify.app) – Personal website (WIP?)  
+- 🌐 [MyWebsite](https://apolinks.netlify.app) – Personal website )  
 - 🧩 [BrowserExtensionX](https://github.com/yourusername/BrowserExtensionX) – Chrome/Firefox extension
 
 ---
 
-## 🧑‍💻 Tech Stack
 
-```bash
-💻 Languages: HTML | CSS | JavaScript | Python | PHP
-⚙️ Tools: VS Code | Git | Node.js | React | TailwindCSS
-🧪 Testing: Postman | Chrome DevTools
-🎨 Design: Figma | Canva
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tryh-apo&style=flat-square&color=blue" alt="Profile Views" /> </p> ```
