@@ -20,4 +20,4 @@ More coming soon — stay tuned!
 🛠️ CoolApp – An experimental web app
 🌐 MyWebsite – Personal website
 🧩 BrowserExtensionX – Chrome/Firefox extension
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent" alt="GitHub Stats"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apolololo&show_icons=true&theme=transparent" alt="GitHub Stats"> </p>
