@@ -82,7 +82,7 @@
   <!-- PROJETS: Facile à mettre à jour - il suffit de copier/coller un bloc et modifier les détails -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <!-- PROJET 1 -->
-    <a href="https://github.com/apolololo/projet1" style="text-decoration: none;">
+    <a href="https://github.com/apolololo/audio" style="text-decoration: none;">
       <div style="border: 1px solid #333; border-radius: 10px; width: 300px; padding: 15px; margin: 10px; background-color: #1a1b27;">
         <h3 style="color: #6A5ACD;">🛠️ CoolApp</h3>
         <p style="color: #ccc;">An experimental web app</p>
