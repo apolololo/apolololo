@@ -55,8 +55,6 @@
 </div>
 
 <div align="center">
-  <h2>🌟 GitHub Trophies</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=apolololo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <h2>🌟 GitHub Snake</h2>
+  <img src="https://github.com/apolololo/apolololo/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
