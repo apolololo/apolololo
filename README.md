@@ -28,31 +28,6 @@
 <p align="center">I stream for fun, play games with my community, and chill out live. Come hang out with us!</p>
 
 <div align="center">
-  <h2>💻 What I Like to Do</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🌐-blue?style=for-the-badge&labelColor=1a1b27" alt="Web" /></td>
-      <td>Build websites and mini apps for fun</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🧩-purple?style=for-the-badge&labelColor=1a1b27" alt="Extensions" /></td>
-      <td>Create browser extensions and test new things</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🧠-green?style=for-the-badge&labelColor=1a1b27" alt="Learning" /></td>
-      <td>Constantly learning and improving my dev skills</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/🎮-red?style=for-the-badge&labelColor=1a1b27" alt="Streaming" /></td>
-      <td>Stream and connect with amazing people</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <h2>❤️ Support My Work</h2>
   <p>If you enjoy my projects or streams, you can help me keep going with a coffee 😊</p>
   
@@ -79,25 +54,21 @@
   <h2>📌 Mes Projets</h2>
   <p>More coming soon — stay tuned!</p>
   
-
+  <a href="https://github.com/apolololo/projet1">
+    <img src="https://img.shields.io/badge/🛠️_CoolApp-An_experimental_web_app-6A5ACD?style=for-the-badge" alt="CoolApp" />
   </a><br>
-  <a href="https://apolinks.netlify.app">
+  <a href="https://github.com/apolololo/projet2">
     <img src="https://img.shields.io/badge/🌐_MyWebsite-Personal_website-6A5ACD?style=for-the-badge" alt="MyWebsite" />
   </a><br>
-  <a href="https://github.com/apolololo/EpicFree">
-    <img src="https://img.shields.io/badge/🧩_BrowserExtension-EpicFree-6A5ACD?style=for-the-badge" alt="EpicFree" />
+  <a href="https://github.com/apolololo/projet3">
+    <img src="https://img.shields.io/badge/🧩_BrowserExtensionX-Chrome/Firefox_extension-6A5ACD?style=for-the-badge" alt="BrowserExtensionX" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apolololo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apolololo&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apolololo&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <details>
+    <summary>📊 GitHub Stats</summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=apolololo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=apolololo&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="150" />
+  </details>
 </div>
