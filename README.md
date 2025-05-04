@@ -81,15 +81,15 @@
 </div>
 
 <div align="center">
+
+
+
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolololo&repo=CoolApp&theme=tokyonight" alt="CoolApp" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolololo&repo=BrowserExtensionX&theme=tokyonight" alt="EpicFree" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolololo&repo=MyWebsite&theme=tokyonight" alt="MyWebsite" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolololo&repo=BrowserExtensionX&theme=tokyonight" alt="BrowserExtensionX" />
-  </a>
+
+
+  
 </div>
 
 <div align="center">
