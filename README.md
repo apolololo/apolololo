@@ -71,3 +71,32 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=apolololo&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="150" />
   </details>
 </div>
+
+<style>
+  body {
+    background-color: #1a1b27;
+    color: #ffffff;
+    font-family: 'Fira Code', monospace;
+  }
+  a {
+    color: #6A5ACD;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .badge {
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.05);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
