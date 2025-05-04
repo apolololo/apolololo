@@ -53,3 +53,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=apolololo&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="150" />
   </details>
 </div>
+
+<div align="center">
+  <h2>🌟 GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=apolololo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
