@@ -79,13 +79,12 @@
   <h2>📌 Mes Projets</h2>
   <p>More coming soon — stay tuned!</p>
   
-  <a href="https://github.com/apolololo/projet1">
-    <img src="https://img.shields.io/badge/🛠️_CoolApp-An_experimental_web_app-6A5ACD?style=for-the-badge" alt="CoolApp" />
+
   </a><br>
-  <a href="https://github.com/apolololo/projet2">
+  <a href="https://apolinks.netlify.app">
     <img src="https://img.shields.io/badge/🌐_MyWebsite-Personal_website-6A5ACD?style=for-the-badge" alt="MyWebsite" />
   </a><br>
-  <a href="https://github.com/apolololo/projet3">
+  <a href="https://github.com/apolololo/EpicFree">
     <img src="https://img.shields.io/badge/🧩_BrowserExtensionX-Chrome/Firefox_extension-6A5ACD?style=for-the-badge" alt="BrowserExtensionX" />
   </a>
 </div>
