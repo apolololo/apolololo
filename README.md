@@ -82,25 +82,25 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=CoolApp&theme=tokyonight" alt="CoolApp" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolololo&repo=CoolApp&theme=tokyonight" alt="CoolApp" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=MyWebsite&theme=tokyonight" alt="MyWebsite" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolololo&repo=MyWebsite&theme=tokyonight" alt="MyWebsite" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=BrowserExtensionX&theme=tokyonight" alt="BrowserExtensionX" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolololo&repo=BrowserExtensionX&theme=tokyonight" alt="BrowserExtensionX" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apolololo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apolololo&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=apolololo&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yourusername/apolololo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
