@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/🌐_MyWebsite-Personal_website-6A5ACD?style=for-the-badge" alt="MyWebsite" />
   </a><br>
   <a href="https://github.com/apolololo/EpicFree">
-    <img src="https://img.shields.io/badge/🧩_BrowserExtensionX-Chrome/Opera_extension-6A5ACD?style=for-the-badge" alt="EpicFree" />
+    <img src="https://img.shields.io/badge/🧩_BrowserExtension-EpicFree-6A5ACD?style=for-the-badge" alt="EpicFree" />
   </a>
 </div>
 
