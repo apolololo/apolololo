@@ -61,6 +61,9 @@
   </a><br>
   <a href="https://github.com/apolololo/EpicFree" target="_blank">
     <img src="https://img.shields.io/badge/🧩_BrowserExtension-EpicFree-6A5ACD?style=for-the-badge" alt="EpicFree" />
+  </a><br>
+  <a href="https://controllercheck.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_ControllerCheck-Check_your_controller-6A5ACD?style=for-the-badge" alt="ControllerCheck" />
   </a>
 </div>
 
