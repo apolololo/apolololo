@@ -7,7 +7,7 @@
   </p>
   
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=apolololo&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
   </div>
 </div>
 
@@ -78,18 +78,21 @@
 <div align="center">
   <h2>📌 Featured Projects</h2>
   <p>More coming soon — stay tuned!</p>
-</div>
-
-<div align="center">
-
-
-
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolololo&repo=BrowserExtensionX&theme=tokyonight" alt="EpicFree" />
-  </a>
-
-
   
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/🛠️-CoolApp-6A5ACD?style=for-the-badge" alt="CoolApp" /></td>
+      <td>An experimental web app</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/🌐-MyWebsite-6A5ACD?style=for-the-badge" alt="MyWebsite" /></td>
+      <td>Personal website</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/🧩-BrowserExtensionX-6A5ACD?style=for-the-badge" alt="BrowserExtensionX" /></td>
+      <td>Chrome/Firefox extension</td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -102,5 +105,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/apolololo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
