@@ -36,6 +36,10 @@
   <a href="https://ko-fi.com/apo__" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
+
+  <a href='https://ko-fi.com/F1F117MXYN' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 
 <div align="center">
