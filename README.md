@@ -53,18 +53,25 @@
 </div>
 
 <div align="center">
-  <h2>📌 Mes Projets</h2>
-  <p>More coming soon — stay tuned!</p>
-
+  <h2>🌐 Sites</h2>
   <a href="https://apolinks.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_MyWebsite-Personal_website-6A5ACD?style=for-the-badge" alt="MyWebsite" />
-  </a><br>
-  <a href="https://github.com/apolololo/EpicFree" target="_blank">
-    <img src="https://img.shields.io/badge/🧩_BrowserExtension-EpicFree-6A5ACD?style=for-the-badge" alt="EpicFree" />
   </a><br>
   <a href="https://controllercheck.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🎮_ControllerCheck-Check_your_controller-6A5ACD?style=for-the-badge" alt="ControllerCheck" />
   </a>
+</div>
+
+<div align="center">
+  <h2>🧩 Extensions</h2>
+  <a href="https://github.com/apolololo/EpicFree" target="_blank">
+    <img src="https://img.shields.io/badge/🧩_BrowserExtension-EpicFree-6A5ACD?style=for-the-badge" alt="EpicFree" />
+  </a>
+</div>
+
+<div align="center">
+  <h2>📌 Applications</h2>
+  <p>More coming soon — stay tuned!</p>
 </div>
 
 <div align="center">
